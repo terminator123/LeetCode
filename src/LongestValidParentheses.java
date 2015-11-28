@@ -7,6 +7,7 @@
  *         longest valid parentheses substring is "()()", which has length = 4.
  * 
  */
+//动态规划，找到每个（对应的）
 public class LongestValidParentheses {
 
 	public int longestValidParentheses(String s) {
